@@ -9,8 +9,6 @@
 
     <div class="perfil">
         <div class="head">
-            <div class="profile-photo">
-                <img src="imagenes/profile.jpg">
             </div>
             <h3>Circe Leonarda Monarrez Cruz/h3>
             <p>Soy estudiante de la carrera Tecnologías de 
